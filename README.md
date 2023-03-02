@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omkar dubey.
-- 👀 I’m interested in learning, traveling  and gym. 
-- 🌱 Now I am learning Full Stack Development.
+- 👀 Skilled in building responsive and accessible user interfaces using HTML, CSS, and JavaScript . 
+- 🌱 Currently engaged in acquiring expertise in Full-Stack Development.
 - 📫 How to reach me
 - linkdin id : Omkar Nath Dubey
 - Website : omkardubey.netlify.app
