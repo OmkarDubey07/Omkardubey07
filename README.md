@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Omkar dubey.<br>👀 Skilled in building responsive and accessible user interfaces using HTML, CSS, and JavaScript .<br>🌱 Currently engaged in acquiring expertise in Full-Stack Development.<br>📫 How to reach me<br>linkdin id : Omkar Nath Dubey<br>Website : omkardubey.netlify.app</p>
+<p align="left">👋 Hi, I’m Omkar dubey.<br>👀 Skilled in building responsive and accessible user interfaces using HTML, CSS, and JavaScript,, React, Tailwind CSS .<br>🌱 Currently engaged in acquiring expertise in Full-Stack Development.<br>📫 How to reach me<br>linkdin id : Omkar Nath Dubey<br>Website : omkardubey.netlify.app</p>
 
 ###
 
